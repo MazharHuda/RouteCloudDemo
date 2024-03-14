@@ -1,6 +1,7 @@
 # RouteCloudDemo
 - This is My First E-Commerce Project
 - Using CI/CD Pipeline For This Project
+- Hello pull = fetch + merge
 - <h1 align="center">Hi 👋, I'm RouteClouds</h1>
 <h3 align="center">A passionate DevOps And Cloud Computing developer from India</h3>
 
