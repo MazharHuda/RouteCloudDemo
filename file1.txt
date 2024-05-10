@@ -1,1 +1,13 @@
+'/c/Users/HP/Downloads/Git Distributed Versioning Control system (1)-compressed (1).pdf'
 hello
+let see it goes or notq
+q Today I Change The Code 
+git init
+git add .
+git commit -m "initial commit"
+git remote add origin repourl
+git branch
+git config --list
+git checkout
+git config --globaluser.name"MazharHuda"
+git config --global user.email
