@@ -1,0 +1,16 @@
+To push your local Git repository to your GitHub repository, follow these step-by-step instructions:
+git init
+git add.
+git commit -m "initial commit"
+git remote add origin<repository url>
+git push -u origin master
+git remote set-url origin https://MazharHuda:token name@github/MazharHuda/myrepo.git
+
+
+
+git config --list
+git config --global user.name "MazharHuda"
+git config --global user.email cloudindia001@gmail.com
+
+git branchit remote -v
+git checkout
